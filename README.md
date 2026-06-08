@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a computer science student. I'm interested in game development. I have experience in C++, Python, and Java. 
+🌟 Currently a Computer Science student
+🫧 I'm interested in learning game development!
+✨ I love creating art. 
+💜 Currently working on small summer projects to develop my skills. 
 
 
 ## 🌐 Socials:
@@ -18,7 +21,5 @@ I'm a computer science student. I'm interested in game development. I have exper
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=sophheehee&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
