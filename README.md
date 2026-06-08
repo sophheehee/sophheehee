@@ -1,7 +1,10 @@
 # 💫 About Me:
 🌟 Currently a Computer Science student
+
 🫧 I'm interested in learning game development!
+
 ✨ I love creating art. 
+
 💜 Currently working on small summer projects to develop my skills. 
 
 
